@@ -1,4 +1,4 @@
-# supmark
+# supermark
 
 ## Project setup
 ```
